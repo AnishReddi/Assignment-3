@@ -30,6 +30,5 @@ namespace Assignment_3
             Console.WriteLine($"Transmission: {Transmission}");
             Console.WriteLine($"Convertible: {(Convertible ? "Yes" : "No")}");
         }
-
     }
 }
